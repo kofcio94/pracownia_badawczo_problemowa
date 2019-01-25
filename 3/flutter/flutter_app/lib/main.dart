@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // ignore: non_constant_identifier_names
-final ITEM_COUNT = 2000;
+final ITEM_COUNT = 1000;
 
 void main() => runApp(new MyApp());
 

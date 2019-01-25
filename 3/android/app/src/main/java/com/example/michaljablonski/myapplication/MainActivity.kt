@@ -7,7 +7,7 @@ import android.support.v7.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
 
-    private val adapterItemCount: Int = 2000
+    private val adapterItemCount: Int = 1000
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
